@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+   
+
+}
+h2{
+    margin-top: 1px;
+    text-align: center;
+    color: aqua;
+}
+.ground{
+    height: 100%;
+    width: 100%;
+}
+table td {
+    border:2px solid aqua;
+    width: 100px;
+    height:100px;
+    color: aqua;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+
+table{
+    color: lime;
+    font-size: larger;
+    font-weight: 600;
+}
+p{
+    margin: 10px;
+    color: aqua;
+}
+    
+button{
+    color: aqua;
+    border: 1px solid rgb(141, 246, 245);
+    padding: 4px 2px;
+}
+
+	
+
+
+
+
+
+  
+  
+   
+
+		
+		
+		
